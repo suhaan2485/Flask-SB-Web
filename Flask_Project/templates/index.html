@@ -1,3 +1,7 @@
 <p>Hello World!</p>
 <p>Hello Flask!</p>
 <p>Hello {{ user_name }}!</p>
+{% extends "base.html" %}
+{% block content %}
+  <p>Hello {{ user_name }}!</p>
+{% endblock %}
