@@ -10,7 +10,7 @@ This is just a simple Website i made as of now just to get the jist of what flas
 
 This website displays my name and some other random names in testing tabs too
 
-##Photos:##
+# Photos:
 
 1. Normal 5003 port (http://127.0.0.1:5003/)
 ![alt text](image.png)
