@@ -11,7 +11,7 @@ def index():
    
 @app.route("/testing")
 def testing():
-    test_display = "Advanced Web Features in progres....."
+    test_display = "Advanced Web Features in progress.....!"
     return render_template("testing.html", test_display=test_display)
 
 @app.route("/about")
